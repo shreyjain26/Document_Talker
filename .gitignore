@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+DocTalk/
 
 # Spyder project settings
 .spyderproject
@@ -139,6 +140,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/faiss_index
 
 # mypy
 .mypy_cache/
